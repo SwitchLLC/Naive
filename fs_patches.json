@@ -242,7 +242,7 @@
         "330553f6b5fb55c4c2d7b736240276b3": {
             "name": "FS600-exfat.kip1",
             "patches": { "nocmac": "600_exfat_nocmac", "nogc" : "600_exfat_nogc", "nosigchk" : "600_exfat_nosigchk" }
-        }
+        },
         "2adbe97e9b5f41779ec95ffe2699c933": {
             "name": "FS700.kip1",
             "patches": { "nosigchk" : "700_nosigchk" }
